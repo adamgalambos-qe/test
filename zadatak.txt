@@ -1,0 +1,9 @@
+GIT Zadatak za test:
+
+1.	Kloniraj test.git repozitorijum u folder na tvom računaru
+2.	Napravi novu granu, 
+3.	Uradi Checkout te nove grane,
+4.	Stavi novi fajl na tu novu granu, 
+5.	Uradi Commit, 
+6.	Uradi Push nove grane na GitHub repozitorijum,
+7.	Napravi PULL REQUEST na github.com (nova grana > master)
